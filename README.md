@@ -29,8 +29,8 @@ Anaconda - Python 3.7
 
 ## Program:
 ``` Python
-### Developed By:
-### Register No:
+### Developed By:shaik sameer 
+### Register No:212221240051
 
 ## i) Write the frame as JPG file
 
